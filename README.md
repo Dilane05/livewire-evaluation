@@ -15,13 +15,13 @@ Welcome to this team and this repo, this repo is to provide you the content need
 3. Create a TASK Management portal 
 
  #### Features need
- 1. User should be able to register on the portal by providing the below (Authentications using laravel-ui and boostrap)
+ 1. User should be able to register on the portal by providing the below (Authentication should be using laravel-ui and boostrap)
     1. Registration [FirstName, LastName, Email, password]
     2. Login 
- 2. Once the user is authenticated and logs in they should be redirected to their dashboard having a list of their task for today, with a tab showing them the list of all thier previous task (All these should be done using Livewire no page reload should occur when the below are done)
+ 2. Once the user is authenticated they should be redirected to their dashboard having a list of all their task for current day, with a tab that take them to the list of all thier previous tasks (All these should be done using Livewire no page reload should occur when the below are done)
     1. It should be possible for a user to mark and unmark tasks as completed - Once a task is marked as completed it should be visually different from a task that is not marked as completed. 
     2. A user should be able to create, update and delete any task. 
-  3. You application should have documentation on how to configure the application and provide a means to automatically generate and populate the task table using seeder. 
+  3. Your application should have documentation on how to configure the application and provide a means to automatically generate and populate the tasks table using seeder. 
   
  ### Step 2 -- Submission
  1. Once you have completed your task, create a pull request to this repository with your full code. 
