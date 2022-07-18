@@ -25,6 +25,6 @@ Welcome to this team and this repo, this repo is to provide you the content need
   
  ### Step 2 -- Submission
  1. Once you have completed your task, create a pull request to this repository with your full code. 
- 2. Your code will be eveluated and we shall give you feedback if you are fit to work on the main project.
+ 2. Your code will be evaluated and we shall give you feedback if you are fit to work on the main project.
  
  Thank You and Goodluck to all.
